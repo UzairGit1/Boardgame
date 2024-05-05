@@ -116,6 +116,9 @@
 		</plugins>
 	</build>
 
-	
+	<distrbutionManagement>
+	<repository>
+		<id>maven-releases</id>
+		<url>http://35.175.128.36:8081/repository/maven-releases/</url>
 
 </project>
